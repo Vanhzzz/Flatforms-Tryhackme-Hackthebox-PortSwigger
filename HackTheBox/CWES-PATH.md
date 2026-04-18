@@ -32,11 +32,15 @@
 
 **Command Injections**
 
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/d98744e1-eae3-42e0-8b5b-02493f25f7a5" />**
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/d98744e1-eae3-42e0-8b5b-02493f25f7a5" />
 
 **File Upload Attacks**
 
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/1361f181-b743-4356-8872-21470dc20535" />
+
+**Server-Side Attack**
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/1351aa93-5665-4f3a-8bf5-f200ed8884ea" />
 
 **Broken Authentication**
 
