@@ -42,6 +42,10 @@
 
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/1351aa93-5665-4f3a-8bf5-f200ed8884ea" />
 
+**Login Brute Forcing**
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/2555b927-8e91-469e-afda-5d627d1bb849" />
+
 **Broken Authentication**
 
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/5dac2ad6-da42-4395-be6d-c2cfe875a8f5" />
