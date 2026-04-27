@@ -49,3 +49,8 @@
 **Broken Authentication**
 
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/5dac2ad6-da42-4395-be6d-c2cfe875a8f5" />
+
+**Web Attack**
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/da31d8a1-db48-4e00-b61d-b2bdf13d1722" />
+
